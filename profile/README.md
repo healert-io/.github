@@ -11,10 +11,10 @@
 ║    ██╔══██║██╔══╝  ██╔══██║██║     ██╔══╝  ██╔══██╗   ██║       ║
 ║    ██║  ██║███████╗██║  ██║███████╗███████╗██║  ██║   ██║       ║
 ║    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝       ║
-║                                                                  ║
-║          Friction Intelligence Platform  ·  v0.1.1              ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+║                                                                 ║
+║          Friction Intelligence Platform  ·  v0.1.1 Coral        ║
+║                                                                 ║
+╚═════════════════════════════════════════════════════════════════╝
 ```
 
 **The world's first open-source Friction Intelligence Platform.**  
@@ -81,7 +81,7 @@ Every friction event is scored with **exponential time decay** — recent bypass
 
 ## Detection Rules
 
-Five rules active in v0.1.1. All configurable. All production-tested on k3s.
+Five rules active in v0.1.1 Coral. All configurable. All production-tested on k3s.
 
 | Rule | Severity | What It Catches |
 |---|---|---|
